@@ -1,3 +1,3 @@
 module.exports = {
-    url: "mongodb+srv://hypermystic:<password>@notable-1b0rg.mongodb.net/test?retryWrites=true&w=majority"
+    url: "mongodb+srv://hypermystic:Isc@5806393@notable-1b0rg.mongodb.net/test?retryWrites=true&w=majority"
 }
